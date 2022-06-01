@@ -15,3 +15,5 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
+
+// webpack4관련 설정이 추가적으로 필요해졌다.
